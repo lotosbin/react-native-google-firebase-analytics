@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4DE93AF1BE434762DFFE98B1DE30630D48C13085",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E38C46F61FB31C190296F40EB8BC81268DBEB519" : 9223372036854775807,
+    "4DE93AF1BE434762DFFE98B1DE30630D48C13085" : 9223372036854775807,
+    "70B8CC0E1D2308E012B6CC5919D6E7C9FE0A5242" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "715EC605-F149-4AE1-AF30-2A9CA4CE9611",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E38C46F61FB31C190296F40EB8BC81268DBEB519" : "..",
+    "4DE93AF1BE434762DFFE98B1DE30630D48C13085" : "react-native-google-firebase-analytics\/",
+    "70B8CC0E1D2308E012B6CC5919D6E7C9FE0A5242" : "react-native-google-firebase-admob\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RCTGoogleFirebaseAdmob",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/RCTGoogleFirebaseAdmob.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lotosbin\/react-native-google-firebase-analytics.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4DE93AF1BE434762DFFE98B1DE30630D48C13085"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lotosbin\/react-native-google-firebase-admob.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70B8CC0E1D2308E012B6CC5919D6E7C9FE0A5242"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/yuanjingtech\/lanrenshipu-react-native.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E38C46F61FB31C190296F40EB8BC81268DBEB519"
+    }
+  ]
+}

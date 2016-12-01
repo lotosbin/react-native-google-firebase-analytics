@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-google-firebase-admob",
+        "scope": null,
+        "escapedName": "react-native-google-firebase-admob",
+        "name": "react-native-google-firebase-admob",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/liubinbin/bitbucket/chuancaishipu-react-native"
+    ]
+  ],
+  "_from": "react-native-google-firebase-admob@latest",
+  "_id": "react-native-google-firebase-admob@0.0.2",
+  "_inCache": true,
+  "_location": "/react-native-google-firebase-admob",
+  "_nodeVersion": "0.10.48",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-google-firebase-admob-0.0.2.tgz_1480587110589_0.6630027759820223"
+  },
+  "_npmUser": {
+    "name": "lotosbin",
+    "email": "lotosbin@gmail.com"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-google-firebase-admob",
+    "scope": null,
+    "escapedName": "react-native-google-firebase-admob",
+    "name": "react-native-google-firebase-admob",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-google-firebase-admob/-/react-native-google-firebase-admob-0.0.2.tgz",
+  "_shasum": "655a580799e31f88dac3c53194798bc8a58f8bc0",
+  "_shrinkwrap": null,
+  "_spec": "react-native-google-firebase-admob",
+  "_where": "/Users/liubinbin/bitbucket/chuancaishipu-react-native",
+  "bugs": {
+    "url": "https://github.com/lotosbin/react-native-google-firebase-admob/issues"
+  },
+  "dependencies": {},
+  "description": "[![Build Status](https://travis-ci.org/lotosbin/react-native-google-firebase-admob.svg?branch=shiny-tests)](https://travis-ci.org/lotosbin/react-native-google-firebase-admob)",
+  "devDependencies": {
+    "jest": "^17.0.3",
+    "jest-react-native": "^17.1.0",
+    "mversion": "^1.10.1",
+    "react": "^15.4.1",
+    "react-native": "^0.38.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "655a580799e31f88dac3c53194798bc8a58f8bc0",
+    "tarball": "https://registry.npmjs.org/react-native-google-firebase-admob/-/react-native-google-firebase-admob-0.0.2.tgz"
+  },
+  "gitHead": "0ed2f0198e67787db7b90171188ba3ace6b86ef6",
+  "homepage": "https://github.com/lotosbin/react-native-google-firebase-admob#readme",
+  "jest": {
+    "preset": "react-native"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "lotosbin",
+      "email": "lotosbin@gmail.com"
+    }
+  ],
+  "name": "react-native-google-firebase-admob",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotosbin/react-native-google-firebase-admob.git"
+  },
+  "scripts": {
+    "flow": "flow; test $? -eq 0 -o $? -eq 2",
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "true"
+  },
+  "version": "0.0.2"
+}

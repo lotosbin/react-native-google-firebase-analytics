@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4DE93AF1BE434762DFFE98B1DE30630D48C13085",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4DE93AF1BE434762DFFE98B1DE30630D48C13085" : 9223372036854775807,
+    "E38C46F61FB31C190296F40EB8BC81268DBEB519" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F48E5787-A920-4D06-A73A-DE0E0B578780",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4DE93AF1BE434762DFFE98B1DE30630D48C13085" : "react-native-google-firebase-analytics\/",
+    "E38C46F61FB31C190296F40EB8BC81268DBEB519" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RCTGoogleFirebaseAnalytics",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/RCTGoogleFirebaseAnalytics.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lotosbin\/react-native-google-firebase-analytics.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4DE93AF1BE434762DFFE98B1DE30630D48C13085"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:yuanjingtech\/chuancaishipu-react-native.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E38C46F61FB31C190296F40EB8BC81268DBEB519"
+    }
+  ]
+}
